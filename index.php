@@ -9,11 +9,11 @@
  *  Plugin Name:	Advanced Custom Fields Unique ID Field
  *  Plugin URI: 	https://ciesadesign.com
  *  Description:	Field that auto generates a Unique ID
- *  Version:		  1.0.0
- *  Author:			  Wayne Glassbrook
+ *  Version:		1.0.0
+ *  Author:		Wayne Glassbrook
  *  Author URI:		https://ciesadesign.com
- *  License:		  GPLv2
- *  License URI:  http://www.gnu.org/licenses/gpl-2.0.txt
+ *  License:		GPLv2
+ *  License URI:  	http://www.gnu.org/licenses/gpl-2.0.txt
  *  
 **/
 
