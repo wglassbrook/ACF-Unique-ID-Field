@@ -1,12 +1,12 @@
 <?php 
 /**
- *  @package   		Advanced Custom Fields Unique ID Field
+ *  @package   		ACF Unique ID Field
  *  @author    		Wayne Glassbrook <wayne@ciesadesign.com>
  *  @license   		GPL-2.0+
  *  @link      		https://ciesadesign.com
  *  @copyright 		2023 Wayne Glassbrook/Ciesa Inc.
  *
- *  Plugin Name:	Advanced Custom Fields Unique ID Field
+ *  Plugin Name:	ACF Unique ID Field
  *  Plugin URI: 	https://ciesadesign.com
  *  Description:	Field that auto generates a Unique ID
  *  Version:		1.0.0
@@ -25,7 +25,7 @@ if ( ! defined( 'WPINC' ) ) {
 // Include Unique IDs Field
 include('inc/_uniqueID.php');
 
-/**
+/*
 	Copyright 2023 Wayne Glassbrook/Ciesa Inc. (email : wayne@ciesadesign.com)
 	
 	This program is free software; you can redistribute it and/or modify
@@ -40,5 +40,4 @@ include('inc/_uniqueID.php');
 	You should have received a copy of the GNU General Public License
 	along with this program; if not, write to the Free Software
 	Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
-**/
-?>
+*/
